@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a fullstack software engineer, creating solutions through software since 2010. Passionate about solutions development, innovation, technology, marketing and learn something new every day
+
+🚀 it's not about technology and code, it's about help people and solve problems
+💜 .Net, JS/TS (Node.js, React.js, Next.js) and Azure
+📚 studing about devops, docker, kubernets, cloud, architecture and micro services
+📌 Lisbon, Portugal
+
 <!--
 **marconildo/marconildo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
