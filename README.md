@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a fullstack software engineer, creating solutions through software since 2010. Passionate about solutions development, innovation, technology, marketing and learn something new every day
+I'm a fullstack software engineer, creating solutions through software since 2002. Passionate about solutions development, innovation, technology, marketing and learn something new every day
 
 🚀 it's not about technology and code, it's about help people and solve problems
 <br />
