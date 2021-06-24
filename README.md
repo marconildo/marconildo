@@ -3,8 +3,11 @@
 I'm a fullstack software engineer, creating solutions through software since 2010. Passionate about solutions development, innovation, technology, marketing and learn something new every day
 
 🚀 it's not about technology and code, it's about help people and solve problems
+<br />
 💜 .Net, JS/TS (Node.js, React.js, Next.js) and Azure
+<br />
 📚 studing about devops, docker, kubernets, cloud, architecture and micro services
+<br />
 📌 Lisbon, Portugal
 
 <!--
